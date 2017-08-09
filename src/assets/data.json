@@ -1,0 +1,73 @@
+[
+    {
+        "name": "naveen",
+		"role" : "Development",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "vinay",
+		"role" : "Development",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "madhu",
+		"role" : "Development",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "vinod",
+		"role" : "Workstations",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "saranya",
+		"role" : "Corporate",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "sumanth",
+		"role" : "Angular",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    },
+    {
+        "name": "manivarma",
+		"role" : "Corporate Workstations",
+		"operatingSystemVersion" : "5.2.29040",
+		"lastSeen" : "20160928",
+		"computerName" : "SPRAD02VM0258",
+		"deviceManufacture" : "Apple Inc.",
+		"ownerClaimed" : "Y",
+		"diskEncrypted" : "Y"
+    }
+    
+]
